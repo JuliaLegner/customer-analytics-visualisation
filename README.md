@@ -65,21 +65,6 @@ The objective was to identify business insights, uncover trends, compare outlet 
 
 ---
 
-## Repository Structure
-
-```
-customer-analytics-visualisation/
-
-│── notebook/
-│── report/
-│── images/
-│── data/
-│── README.md
-│── requirements.txt
-```
-
----
-
 ## Future Improvements
 
 - Interactive dashboard with Plotly Dash
